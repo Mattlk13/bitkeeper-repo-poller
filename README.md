@@ -1,4 +1,4 @@
-# BitKeeper-repo-poller
+# BitKeeper pulgin for GoCD
 Plugin that polls a BitKeeper repository for pull requests and triggers a build for each of them
 
 ## License
