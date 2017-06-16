@@ -24,7 +24,7 @@ project.ext.pluginDesc = [
         id         : 'cd.go.contrib.scms.bitkeeper',
         version    : project.version,
         goCdVersion: '16.2.1',
-        name       : 'BitKeeper plunig for gocd',
+        name       : 'BitKeeper plugin for gocd',
         description: 'Plugin that polls a BitKeeper repository for pull requests and triggers a build for each of them',
         vendorName : 'ThoughtWorks Go Team',
         vendorUrl  : 'www.thoughtworks.com'
